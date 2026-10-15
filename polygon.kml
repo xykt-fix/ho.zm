@@ -1,47 +1,283 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [106.881204, 47.914231, 0.0],
-            [106.881213, 47.913876, 0.0],
-            [106.882056, 47.913808, 0.0],
-            [106.882086, 47.910856, 0.0],
-            [106.88396, 47.910794, 0.0],
-            [106.883895, 47.909757, 0.0],
-            [106.882459, 47.909802, 0.0],
-            [106.882535, 47.909556, 0.0],
-            [106.882964, 47.908529, 0.0],
-            [106.883411, 47.906828, 0.0],
-            [106.883304, 47.90322, 0.0],
-            [106.884721, 47.903017, 0.0],
-            [106.885472, 47.903097, 0.0],
-            [106.889364, 47.902696, 0.0],
-            [106.892629, 47.902413, 0.0],
-            [106.892722, 47.90747, 0.0],
-            [106.886304, 47.907195, 0.0],
-            [106.886291, 47.909627, 0.0],
-            [106.889299, 47.909545, 0.0],
-            [106.889351, 47.910058, 0.0],
-            [106.890504, 47.910021, 0.0],
-            [106.890524, 47.91073, 0.0],
-            [106.88848, 47.910754, 0.0],
-            [106.888655, 47.912521, 0.0],
-            [106.886568, 47.912561, 0.0],
-            [106.886581, 47.913648, 0.0],
-            [106.8865, 47.914483, 0.0],
-            [106.884067, 47.914659, 0.0],
-            [106.881762, 47.914593, 0.0],
-            [106.881222, 47.914555, 0.0],
-            [106.881204, 47.914231, 0.0]
-          ]
-        ]
-      }
-    }
-  ]
-}
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Copy of Дүүргүүдийн нутаг дэвсгэр</name>
+<description>
+Хороо тус бүрийн өрх, хүн ам болон тээврийн хэрэгслийн тоо
+</description>
+<Style id="poly-000000-1200-76-normal">
+<LineStyle>
+<color>ff000000</color>
+<width>1.2</width>
+</LineStyle>
+<PolyStyle>
+<color>4c000000</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<Style id="poly-000000-1200-76-highlight">
+<LineStyle>
+<color>ff000000</color>
+<width>1.8</width>
+</LineStyle>
+<PolyStyle>
+<color>4c000000</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<StyleMap id="poly-000000-1200-76">
+<Pair>
+<key>normal</key>
+<styleUrl>#poly-000000-1200-76-normal</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#poly-000000-1200-76-highlight</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="poly-0055FF-2000-76-normal">
+<LineStyle>
+<color>ffff5500</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>4cff5500</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<Style id="poly-0055FF-2000-76-highlight">
+<LineStyle>
+<color>ffff5500</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>4cff5500</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<StyleMap id="poly-0055FF-2000-76">
+<Pair>
+<key>normal</key>
+<styleUrl>#poly-0055FF-2000-76-normal</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#poly-0055FF-2000-76-highlight</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="poly-00FF7F-2000-76-normal">
+<LineStyle>
+<color>ff7fff00</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>4c7fff00</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<Style id="poly-00FF7F-2000-76-highlight">
+<LineStyle>
+<color>ff7fff00</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>4c7fff00</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<StyleMap id="poly-00FF7F-2000-76">
+<Pair>
+<key>normal</key>
+<styleUrl>#poly-00FF7F-2000-76-normal</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#poly-00FF7F-2000-76-highlight</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="poly-55FF7F-2000-76-normal">
+<LineStyle>
+<color>ff7fff55</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>4c7fff55</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<Style id="poly-55FF7F-2000-76-highlight">
+<LineStyle>
+<color>ff7fff55</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>4c7fff55</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<StyleMap id="poly-55FF7F-2000-76">
+<Pair>
+<key>normal</key>
+<styleUrl>#poly-55FF7F-2000-76-normal</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#poly-55FF7F-2000-76-highlight</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="poly-FF0000-2000-76-normal">
+<LineStyle>
+<color>ff0000ff</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>4c0000ff</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<Style id="poly-FF0000-2000-76-highlight">
+<LineStyle>
+<color>ff0000ff</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>4c0000ff</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<StyleMap id="poly-FF0000-2000-76">
+<Pair>
+<key>normal</key>
+<styleUrl>#poly-FF0000-2000-76-normal</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#poly-FF0000-2000-76-highlight</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="poly-FF007F-2000-76-normal">
+<LineStyle>
+<color>ff7f00ff</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>4c7f00ff</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<Style id="poly-FF007F-2000-76-highlight">
+<LineStyle>
+<color>ff7f00ff</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>4c7f00ff</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<StyleMap id="poly-FF007F-2000-76">
+<Pair>
+<key>normal</key>
+<styleUrl>#poly-FF007F-2000-76-normal</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#poly-FF007F-2000-76-highlight</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="poly-FFAA00-2000-76-normal">
+<LineStyle>
+<color>ff00aaff</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>4c00aaff</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<Style id="poly-FFAA00-2000-76-highlight">
+<LineStyle>
+<color>ff00aaff</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>4c00aaff</color>
+<fill>1</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<StyleMap id="poly-FFAA00-2000-76">
+<Pair>
+<key>normal</key>
+<styleUrl>#poly-FFAA00-2000-76-normal</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#poly-FFAA00-2000-76-highlight</styleUrl>
+</Pair>
+</StyleMap>
+<Folder>
+<name>Баянгол дүүрэг</name>
+<Placemark>
+<name>1o Lugar</name>
+<description>
+Өрхийн тоо -  5348                                                 Хүн амын тоо -  17800                                             Тээврийн хэрэгслийн тоо -  5585
+</description>
+<styleUrl>#poly-FFAA00-2000-76</styleUrl>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<tessellate>1</tessellate>
+<coordinates>
+106.881204,47.914231,0 106.881213,47.913876,0 106.882056,47.913808,0 106.882086,47.910856,0 106.88396,47.910794,0 106.883895,47.909757,0 106.882459,47.909802,0 106.882535,47.909556,0 106.882964,47.908529,0 106.883411,47.906828,0 106.883304,47.90322,0 106.884721,47.903017,0 106.885472,47.903097,0 106.889364,47.902696,0 106.892629,47.902413,0 106.892722,47.90747,0 106.886304,47.907195,0 106.886291,47.909627,0 106.889299,47.909545,0 106.889351,47.910058,0 106.890504,47.910021,0 106.890524,47.91073,0 106.88848,47.910754,0 106.888655,47.912521,0 106.886568,47.912561,0 106.886581,47.913648,0 106.8865,47.914483,0 106.884067,47.914659,0 106.881762,47.914593,0 106.881222,47.914555,0 106.881204,47.914231,0
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>2o Lugar</name>
+<description>
+Өрхийн тоо - 2104                                                   Хүн амын тоо - 8185                                         Тээврийн хэрэгслийн тоо - 4525
+</description>
+<styleUrl>#poly-FFAA00-2000-76</styleUrl>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<tessellate>1</tessellate>
+<coordinates>
+106.891166,47.915064,0 106.891034,47.916032,0 106.889193,47.915976,0 106.887659,47.916362,0 106.88569,47.916666,0 106.884691,47.916658,0 106.882726,47.916722,0 106.880933,47.917205,0 106.878649,47.917131,0 106.87633,47.917065,0 106.876354,47.914341,0 106.881239,47.914531,0 106.884089,47.914658,0 106.886512,47.914485,0 106.890656,47.913845,0 106.893994,47.913369,0 106.894775,47.913261,0 106.894675,47.913911,0 106.894884,47.915364,0 106.891166,47.915064,0
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>3o Lugar</name>
+<description>
+Өрхийн тоо - 2190                                                     Хүн амын тоо - 8584                                             Тээврийн хэрэгслийн тоо - 3772
+</description>
+<styleUrl>#poly-FFAA00-2000-76</styleUrl>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<tessellate>1</tessellate>
+<coordinates>
+106.911506,47.908162,0 106.909084,47.908252,0 106.906296,47.908406,0 106.902837,47.908457,0 106.902726,47.908421,0 106.901291,47.908524,0 106.897821,47.90872,0 106.896842,47.90887,0 106.895106,47.908954,0 106.894948,47.911648,0 106.894751,47.913261,0 106.886526,47.914456,0 106.886583,47.912577,0 106.888668,47.912522,0 106.888495,47.910761,0 106.890512,47.910722,0 106.890505,47.910008,0 106.889348,47.910042,0 106.889297,47.90955,0 106.886307,47.909602,0 106.886305,47.907202,0 106.892725,47.907464,0 106.892626,47.902422,0 106.894127,47.902314,0 106.894773,47.902168,0 106.895405,47.902128,0 106.895736,47.902119,0 106.897992,47.902505,0 106.903591,47.904135,0 106.905219,47.904632,0 106.907549,47.905432,0 106.909375,47.90609,0 106.910249,47.906337,0 106.911168,47.906603,0 106.91212,47.90675,0 106.912446,47.906724,0 106.913034,47.908153,0 106.911506,47.908162,0
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
